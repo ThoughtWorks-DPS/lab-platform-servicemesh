@@ -102,6 +102,9 @@ commands:
         default: $CLUSTER
     steps:
       - run:
+          name: deploy istio-access-logs 
+          command: bash scripts/deploy_istio_access_logs.sh << parameters.cluster >>
+      - run:
           name: deploy istio-prometheus
           command: bash scripts/deploy_prometheus.sh << parameters.cluster >>
       - run:
