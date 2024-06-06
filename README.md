@@ -8,9 +8,11 @@
 	<a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/-deployed-blank.svg?style=social&logo=amazon"></a>
 	<br />
   <h3>lab-platform-servicemesh</h3>
-	<a href="https://app.circleci.com/pipelines/github/ThoughtWorks-DPS/lab-platform-servicemesh"><img src="https://circleci.com/gh/ThoughtWorks-DPS/lab-platform-servicemesh.svg?style=shield"></a> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+	<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </div>
 <br />
+
+# Deprecated. See psk-series examples.  
 
 The Lab servicemesh demonstrates the following configuration.
 
